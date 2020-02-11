@@ -24,5 +24,5 @@ This document will showcase the normal initial exploratory analysis, where you s
 #### 3. Correlation and feature importance
 This will finally start showing some insights as to how the variables interact with each other, and which variables -seem- to have an impact (correlation does not imply causation) on the variables you care about the most .
 
-#### 4. Data inference and prediction
+#### 4. Inference, forecast and optimization
 Finally this will showcase how to use the correlations previously found in order to infer performance on the variable of interests, or to suggests strategies to improve or optimize it.
