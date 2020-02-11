@@ -1,0 +1,43 @@
+1 What is your gender?
+2 What is your age? (In years. Ej, 27)
+3 What is your height? (in centimeters. Ej, 166)
+4 What is your ape index? (Full armspan minus height). *If you don't know it, put 0
+5 How much do you weight? (In kg)
+6 Do you study or work?
+7 What continent do you live in?
+8 In which country do you live or climb at the most?
+9 How often do you visit gyms/crags on states or countries other than the one you live in?
+10 If you plan a vacation, it is most likely intended as a...
+11 Which describes you the best?
+12 Which describes you the best?.1
+13 How many years have you been climbing?
+14 Is/was any of your parents a climber?
+15 Why do you climb? 
+16 On average how many days do you climb in a week?
+17 How many of those are indoors?
+18 How many of those do you consider "training" sessions?
+19 In case you train, how do you train?
+20 How long are your training sessions on average?
+21 In case you train at a gym, what facilities does it include?
+22 In case you climb indoors, do you climb indoors to improve your outdoors climbing, or is indoors climbing an end in itself?
+23 Select the 5 aspects you personally put most of your efforts for improvement, regardless of it being in or out the gym
+24 How tight do you get your climbing shoes?
+25 Do you follow a specific diet?
+26 Do you REGULARLY practice any other sport besides climbing?
+27 What is the first thing you do when you get to the cym/crag?
+28 What is your hardest indoor onsight/flash boulder grade?
+29 What is your hardest indoor projected boulder grade?
+30 What is your hardest outdoor onsight/flash boulder grade?
+31 What is your hardest outdoor projected boulder grade?
+32 What grade do you feel a 80+% confidence to say "I can most likely flash that"? 
+33 What grade do you feel a 80+% confidence to say "I can most likely send that"? 
+34 What is the first thing you do when you get to the cym/crag?.1
+35 How many routes do you normally climb in a day? (#)
+36 What is your hardest onsight/flash grade?
+37 What is your hardest redpoint/projected grade?
+38 What grade do you feel a 80+% confidence to say "I can most likely onsight/flash that"? 
+39 What grade do you feel a 80+% confidence to say "I can most likely finish that, even if i fall (no send)"
+40 On your first attempt on a new project/route/problem at or above your current max grade, you normally...
+41 When projecting SPORTS, how many attempts would you have on your projected route on the same day?
+42 Which do you feel is usually your best performance on a project or hard route?
+43 When projecting, do you purposely try to visit the same crag in order to focus on your route, or do you simply work it when you happen to go back there?
