@@ -21,7 +21,7 @@ Contains the code and explanation for transforming the raw data into a more proc
 #### 2. Data Exploratory Analysis
 This document will showcase the normal initial exploratory analysis, where you simply try to look at the data to see how each variable behaves, their distribution, their behavior over different subsets of the whole population, etc.
 
-#### 3. Correlation analysis
+#### 3. Correlation and feature importance
 This will finally start showing some insights as to how the variables interact with each other, and which variables -seem- to have an impact (correlation does not imply causation) on the variables you care about the most .
 
 #### 4. Data inference and prediction
