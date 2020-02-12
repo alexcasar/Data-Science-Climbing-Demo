@@ -24,7 +24,7 @@ Contains the data after going through min-max scaling.
 #### 0.5 features.csv
 Contains the features resulting from the feature importance phases.
 
-### Code Files
+### Jupyter Notebooks
 #### 1. Data Preparation
 Contains the code and explanation for transforming the raw data into a more processing-friendly format.
 *Note that there was very little data cleaning in this example, this is because the survey has some basic input validation and I performed a simple data clean-up as well just to reduce the scope of this example. Industrial scenarios will have a lot of miss-inputs, incorrect datatypes, missing data, etc. which have different strategies to deal with, but which I won't exemplify here.
