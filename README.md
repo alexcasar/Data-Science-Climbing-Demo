@@ -6,6 +6,10 @@ This git consists of a step-by-step example of a basic data science work flow, f
 
 The data used for this exercise will be information regarding rock-climbers' profile and their climbing performance. Information was gathered using the following on-line survey https://forms.gle/dgZAkwvBHcoapj8D9 (feel free to answer it if you happen to be a rock-climber, to continue gathering data) so the data consist of real climbers' profiles.
 
+It is intended as an introductory showcase of data science pipeline in a real world scenario, in order to provide a little bit of guideline to those interested in data science but which do not know how to initially get into it.
+
+I hope someone finds it useful.
+
 ## Files
 
 ### Data Files
@@ -37,3 +41,9 @@ This will finally start showing some insights as to how the variables interact w
 
 #### 4. Inference, forecast and optimization
 Finally this will showcase how to use the correlations previously found in order to infer performance on the variable of interests, or to suggests strategies to improve or optimize it.
+
+### Note
+
+Data science is very dependent on the amount and quality of data. This was performed using only 156 responses (extremely little database) of a survey created by myself, someone with data science knowledge but without any proper knowledge about climbing or sports science, nor the tools to get more detailed quantitative information (rather bad quality of data). With either more responses, or with the help of an actual sports professional to create a more appropiate survey to gather actually useful information, the performance of these kinds of analysis will greatly improve, the results would be more evident and the findings become much more useful.
+
+This notebook is a static shot of the code from the last time I ran it, if you download the code and run it in your own computer, the results may change and the "hardcoded examples" might stop making any sense because several of the processes are stochastic. This means that they have an intrinsic randomness in their inner workins that causes them to yield different outputs every time you run them, but usually quite similar. This is both good and bad, a good thing is that you can run these processes many times, storing the best result (as we did in the "trainModel" methods of this function) to get very good performances, but the bad thing is that they might not be directly replicable if the random seed was not stored.
