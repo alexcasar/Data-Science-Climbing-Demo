@@ -13,6 +13,9 @@ I hope someone finds it useful.
 ## Files
 
 ### Data Files
+#### 0.0 questions.txt:
+Contains the questions asked in the survey:
+
 #### 0.1 rawData.csv:
 Contains the answers to the survey shown above:
 
