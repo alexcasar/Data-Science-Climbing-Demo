@@ -28,6 +28,9 @@ Contains the data after going through min-max scaling.
 #### 0.5 features.csv
 Contains the features resulting from the feature importance phases.
 
+#### 0.6 variableDescription.xls
+Describes the variables used in the datasets.
+
 ### Jupyter Notebooks
 #### 1. Data Preparation
 Contains the code and explanation for transforming the raw data into a more processing-friendly format.
