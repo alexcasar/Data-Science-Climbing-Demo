@@ -2,7 +2,7 @@
 
 ## Description
 
-This git consists of a step-by-step example of a basic data science work flow, from data aquisition and preparation, to exploratory analysis, to pattern/correlation finding and finally to inference or prediction modeling. Different phases of the pipeline will be divided into different files in order to make it more evident and specific.
+This git consists of a step-by-step example of a basic data science work flow, from data aquisition and preparation, to exploratory analysis, to pattern/correlation finding and finally to inference or prediction modeling. Different phases of the pipeline will be divided into different files in order to make it more evident and specific. A final report about this analysis was published in https://towardsdatascience.com/datas-the-beta-the-power-of-data-to-improve-at-climbing-and-other-sports-337df948f630?sk=3b996ba28c4247dbf76adca8ad305a57
 
 The data used for this exercise will be information regarding rock-climbers' profile and their climbing performance. Information was gathered using the following on-line survey https://forms.gle/dgZAkwvBHcoapj8D9 (feel free to answer it if you happen to be a rock-climber, to continue gathering data) so the data consist of real climbers' profiles.
 
